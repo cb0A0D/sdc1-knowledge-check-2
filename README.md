@@ -39,7 +39,7 @@ for (int i = 0; i < numberOfRecords; i++)
 9. Turn in the knowledge check in Google Classroom. Make sure you include the link to your new GitHub repository when you "Turn In" the assignment.
 
 ```mermaid
-graph KC2;
+graph TD;
   START-->MAIN;
   MAIN-->HOW_MANY_ITEMS_TO_ADD;
   HOW_MANY_ITEMS_TO_ADD-->ADD_ITEM_LOOP; 
